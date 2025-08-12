@@ -42,6 +42,8 @@ int main() {
     if (tabuleiro[3][9] == 0) tabuleiro[3][9] = 3;
     if (tabuleiro[4][8] == 0) tabuleiro[4][8] = 3;
 
+      // Exibir cabeçalho
+    printf(" TABULEIRO BATALHA NAVAL\n\n");
     // -----------------------
     // Exibir letras nas colunas
     // -----------------------
